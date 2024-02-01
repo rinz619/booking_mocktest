@@ -90,8 +90,8 @@ DATABASES = {
        'ENGINE': 'django.db.backends.postgresql',
        'NAME': 'booking_db',
        'USER': 'postgres',
-       'PASSWORD': 'Admin67',
-       'HOST': 'localhost',
+       'PASSWORD': 'POe53fKKGRrhdHmcgmnh',
+       'HOST': 'database-1.cpcqms6gsw5t.ap-southeast-2.rds.amazonaws.com',
        'PORT': '5432',
    }
 }
